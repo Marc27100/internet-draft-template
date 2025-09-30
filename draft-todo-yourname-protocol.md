@@ -45,8 +45,8 @@ venue:
 
 author:
  -
-    fullname: Your Name Here
-    organization: Your Organization Here
+    fullname: Your Name Here Marco Antonio Reyna González 
+    organization: Your sin fines de lucro Organization Here
     email: your.email@example.com
 
 normative:
